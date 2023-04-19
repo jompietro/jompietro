@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @jompietro<br>👀 I’m interested in learning code<br>🌱 I’m currently learning CSS, HTML, JAVASCRIPT
+👋 Hi, I’m @jompietro<br>👀 I’m interested in learning code<br>🌱 I’m currently learning CSS, HTML, JAVASCRIPT, ANGULAR, REACT, REACT NATIVE, C#, .NET
 
 
 ## 🌐 Socials:
